@@ -1,5 +1,7 @@
 # Top 200 Contacts
 
+> Original credit to [@nikunj](https://x.com/nikunj) and his project [wrap2025](https://github.com/kothari-nikunj/wrap2025)
+
 Rank your most messaged people across iMessage and WhatsApp.
 
 ## Features
