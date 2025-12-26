@@ -1,6 +1,6 @@
-# Output files
-*.html
+# Output files (generated reports with personal data)
 top_contacts.html
+!index.html
 
 # Python
 __pycache__/
